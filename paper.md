@@ -134,3 +134,105 @@
 * 论文链接：https://aclanthology.org/2021.acl-long.547.pdf
 * 代码链接：https://github.com/zerohd4869/DialogueCRN
 
+#### TicketTalk: Toward human-level performance with end-to-end, transaction-based dialog systems
+
+* 论文链接：https://aclanthology.org/2021.acl-long.55.pdf
+* 代码链接：https://git.io/JL8an
+
+#### Improving Dialog Systems for Negotiation with Personality Modeling
+
+* 论文链接：https://aclanthology.org/2021.acl-long.56.pdf
+* 代码链接：https://github.com/princeton-nlp/NegotiationToM
+
+#### Discovering Dialog Structure Graph for Coherent Dialog Generation
+
+* 论文链接：https://aclanthology.org/2021.acl-long.136.pdf
+
+#### Robustness Testing of Language Understanding in Task-Oriented Dialog
+
+* 论文链接：https://aclanthology.org/2021.acl-long.192.pdf
+* 代码链接：https://github.com/thu-coai/LAUG
+
+#### Towards Emotional Support Dialog Systems
+
+* 论文链接：https://aclanthology.org/2021.acl-long.269.pdf
+* 代码链接：https://github.com/thu-coai/Emotional-Support-Conversation
+
+#### Diversifying Dialog Generation via Adaptive Label Smoothing
+
+* 论文链接：https://aclanthology.org/2021.acl-long.272.pdf
+* 代码链接：https://github.com/lemon234071/AdaLabel
+
+#### RADDLE: An Evaluation Benchmark and Analysis Platform for Robust Task-oriented Dialog Systems
+
+* 论文链接：https://aclanthology.org/2021.acl-long.341.pdf
+
+#### TIMEDIAL: Temporal Commonsense Reasoning in Dialog
+
+* 论文链接：https://aclanthology.org/2021.acl-long.549.pdf
+* 代码链接：https://github.com/google-research-datasets/timedial
+
+#### GL-GIN: Fast and Accurate Non-Autoregressive Model for Joint Multiple Intent Detection and Slot Filling
+
+* 论文链接：https://aclanthology.org/2021.acl-long.15.pdf
+* 代码链接：https://github.com/yizhen20133868/GL-GIN
+
+#### Intent Classification and Slot Filling for Privacy Policies
+
+* 论文链接：https://aclanthology.org/2021.acl-long.340.pdf
+* 代码链接：https://github.com/wasiahmad/PolicyIE
+
+#### ProtAugment: Intent Detection Meta-Learning through Unsupervised Diverse Paraphrasing
+
+* 论文链接：https://aclanthology.org/2021.acl-long.191.pdf
+* 代码链接：https://github.com/tdopierre/ProtAugment
+
+#### Out-of-Scope Intent Detection with Self-Supervision and Discriminative Training
+
+* 论文链接：https://aclanthology.org/2021.acl-long.273.pdf
+* 代码链接：https://github.com/liam0949/DCLOOS
+
+#### Saying No is An Art: Contextualized Fallback Responses for Unanswerable Dialogue Queries
+
+* 论文链接：https://aclanthology.org/2021.acl-short.13.pdf
+
+#### PRAL: A Tailored Pre-Training Model for Task-Oriented Dialog Generation
+
+* 论文链接：https://aclanthology.org/2021.acl-short.40.pdf
+* 代码链接：https://github.com/BYU-PCCL/chitchat-dataset
+
+#### Continual Learning for Task-oriented Dialogue System with Iterative Network Pruning, Expanding and Masking
+
+* 论文链接：https://aclanthology.org/2021.acl-short.66.pdf
+* 代码链接：https://github.com/siat-nlp/TPEM
+
+#### Unsupervised Enrichment of Persona-grounded Dialog with Background Stories
+
+* 论文链接：https://aclanthology.org/2021.acl-short.74.pdf
+* 代码链接：https://github.com/majumderb/pabst
+
+#### Domain-Adaptive Pretraining Methods for Dialogue Understanding
+
+* 论文链接：https://aclanthology.org/2021.acl-short.84.pdf
+
+#### Preview, Attend and Review: Schema-Aware Curriculum Learning for Multi-Domain Dialogue State Tracking
+
+* 论文链接：https://aclanthology.org/2021.acl-short.111.pdf
+
+#### On the Generation of Medical Dialogs for COVID-19
+
+* 论文链接：https://aclanthology.org/2021.acl-short.112.pdf
+* 代码链接：https://github.com/UCSD-AI4H/COVID-Dialogue
+
+#### Constructing Multi-Modal Dialogue Dataset by Replacing Text with Semantically Relevant Images
+
+* 论文链接：https://aclanthology.org/2021.acl-short.113.pdf
+* 代码链接：https://github.com/shh1574/multi-modal-dialogue-dataset
+
+#### QA-Driven Zero-shot Slot Filling with Weak Supervision Pretraining
+
+* 论文链接：https://aclanthology.org/2021.acl-short.83.pdf
+* 代码链接：https://github.com/google-research/bert/blob/master/run_squad.py
+
+
+
